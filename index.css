@@ -1,24 +1,24 @@
 .a{
-    border: 4px solid black;
-    height: 850px;
-    width: 650px;
-    margin-left: 350px;
-    background-color: rgb(190, 211, 235);
+    border: 4 px solid black;
+    height: 850 px;
+    width: 650 px;
+    margin-left: 350 px;
+    background-color: blue;
 }
 .b{
-    margin-left: 30px;
-    margin-top: 45px;
+    margin-left: 30 px;
+    margin-top: 45 px;
 }
 .c{
-    margin-left: 30px;
-    margin-top: 80px;
+    margin-left: 30 px;
+    margin-top: 80 px;
 }
 .d{
-    margin-top: 50px;
-    margin-left: 30px;
+    margin-top: 50 px;
+    margin-left: 30 px;
 }
 .e{
-    margin-left: 275px;
-    margin-top: 30px;
+    margin-left: 275 px;
+    margin-top: 30 px;
     
 }
